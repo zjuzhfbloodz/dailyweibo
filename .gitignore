@@ -1,0 +1,6 @@
+*.jpg
+*.csv
+__pycache__
+pic
+.idea
+*.ipynb
